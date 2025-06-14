@@ -20,8 +20,8 @@ To start the bot, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/ma4z/VPS-Generator.git
-   cd VPS-Generator
+   git clone https://github.com/LottaNodesDev/vps
+   cd vps
    ```
    
 2. **Install Python dependencies:**
